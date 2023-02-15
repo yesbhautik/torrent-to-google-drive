@@ -8,11 +8,11 @@ Whatever you want to download from torrent, simply add its magnet link to this a
 
 Step 1: Open google Colab, Use this link https://colab.research.google.com/
 
-<img width="960" alt="1" src="https://raw.githubusercontent.com/yesbhautik/img-upload/main/chrome_5u8laagfGv.png">
+![image](https://user-images.githubusercontent.com/63995315/219113741-06ddfb15-f360-432e-b8c1-0e95b24fe5d3.png)
 
 Step 2: Select "Github" from that window, then type "yesbhautik" and Select "yesbhautik/torrent-to-google-drive" repository.
 
-<img width="960" alt="2" src="https://raw.githubusercontent.com/yesbhautik/img-upload/main/chrome_LstI58Hd0y.png">
+![image](https://user-images.githubusercontent.com/63995315/219113830-89f7f6df-c44b-4aa4-bd62-b49e2af6ff81.png)
 
 Step 3: Click on "torrent downloader.ipynb" and a python notebook will open.
 
